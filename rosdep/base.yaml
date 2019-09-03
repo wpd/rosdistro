@@ -283,7 +283,7 @@ boost:
   arch: [boost]
   cygwin: [libboost-devel, libboost1.40]
   debian:
-    buster: [libboost-all-dev]
+    buster: [libboost1.58-all-dev]
     jessie: [libboost-all-dev]
     squeeze: [libboost1.42-all-dev]
     stretch: [libboost-all-dev]
